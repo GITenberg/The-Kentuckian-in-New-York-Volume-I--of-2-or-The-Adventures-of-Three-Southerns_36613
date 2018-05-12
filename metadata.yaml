@@ -1,0 +1,29 @@
+_repo: The-Kentuckian-in-New-York-Volume-I--of-2-or-The-Adventures-of-Three-Southerns_36613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caruthers, William Alexander
+    alias: Caruthers, William A. (Alexander)
+    birthdate: 1802
+    deathdate: 1846
+    gutenberg_agent_id: '37800'
+    url: http://www.gutenberg.org/2009/agents/37800
+description: ''
+gutenberg_issued: '2011-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'City and town life -- New York (State) -- New York -- Fiction'
+title: The Kentuckian in New-York; or, The Adventures of Three Southerns. Volume 1
+  (of 2)
+url: http://www.gutenberg.org/ebooks/36613
